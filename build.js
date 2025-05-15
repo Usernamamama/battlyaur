@@ -39,8 +39,8 @@ obfuscateSrc().then(() => {
             publish: [
                 {
                     provider: "github",
-                    owner: "1ly4s0",
-                    repo: "battlylauncher",
+                    owner: "Usernamamama",
+                    repo: "battlyaur",
                     releaseType: "release"
                 }
             ],
@@ -93,7 +93,7 @@ obfuscateSrc().then(() => {
                     arch: ["x64"]
                 },
                 {
-                    target: "deb",
+                    target: "pacman",
                     arch: ["x64"]
                 },
                 {
