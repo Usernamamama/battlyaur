@@ -115,7 +115,14 @@ obfuscateSrc().then(() => {
                 {
                     target: "rpm",
                     arch: ["armv7l"]
-                }
+                },
+            freebsd: {
+                icon: "./src/assets/images/icon.ico",
+                target: [{
+                    target: "pkg",
+                    arch: ["x64"]
+                }]
+            },
                 ]
             }
         }
