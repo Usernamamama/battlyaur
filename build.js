@@ -39,8 +39,8 @@ obfuscateSrc().then(() => {
             publish: [
                 {
                     provider: "github",
-                    owner: "Usernamamama",
-                    repo: "battlyaur",
+                    owner: "1ly4s0",
+                    repo: "battlylauncher",
                     releaseType: "release"
                 }
             ],
@@ -93,7 +93,7 @@ obfuscateSrc().then(() => {
                     arch: ["x64"]
                 },
                 {
-                    target: "pacman",
+                    target: "deb",
                     arch: ["x64"]
                 },
                 {
@@ -115,14 +115,7 @@ obfuscateSrc().then(() => {
                 {
                     target: "rpm",
                     arch: ["armv7l"]
-                },
-            freebsd: {
-                icon: "./src/assets/images/icon.ico",
-                target: [{
-                    target: "pkg",
-                    arch: ["x64"]
-                }]
-            },
+                }
                 ]
             }
         }
