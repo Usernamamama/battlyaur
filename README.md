@@ -9,7 +9,7 @@ La interfaz de usuario de Battly es simple y fácil de usar, lo que permite una 
 
 No sólo eso, Battly también tiene configuraciones que te servirán para ajustar el uso de recursos del sistema, tales como ram, etc.
 
-También estará disponible para Windows, MAC y todas las distribuciones de Linux, tales como Debian o Ubuntu, absolutamente todos los sistemas operativos que hay actualmente.
+También estará disponible para Windows, MAC y todas las distribuciones de Linux, tales como Debian, Ubuntu o Arch, absolutamente todos los sistemas operativos que hay actualmente.
 
 
 
