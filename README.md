@@ -15,9 +15,8 @@ También estará disponible para Windows, MAC y todas las distribuciones de Linu
 
 
 ## Sugerencias
-Recordad que si tenéis alguna sugerencia para Battly me la podéis dejar aquí debajo en los comentarios, en el servidor de Discord o mandando un correo a ~~sugerencias@battlylauncher.com~~
-~~battlyaur@gmail.com~~
-Sin correo actualmente
+Recordad que si tenéis alguna sugerencia para Battly me la podéis dejar aquí debajo en los comentarios, en el servidor de Discord o mandando un correo a 
+battlyaur@outlook.com
 
 
 
