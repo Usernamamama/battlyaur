@@ -31,14 +31,14 @@ Este port permite a los usuarios de Arch Linux instalarlo mediante AUR.
 
 
 ## Planes:
-✅ Crear BattlyAUR
-🟨 Compatibilizar BattlyLauncher a AUR
-❌ Sacar la primera versión estable de BattlyAUR
-🟨 Actualizar BattlyAUR a 3.0.0
-❓ Intentar dejar el código del Launcher original (Sin modificar)
+* Crear BattlyAUR: ✅
+* Compatibilizar BattlyLauncher a AUR: 🟨
+* Sacar la primera versión estable de BattlyAUR: ❌
+* Actualizar BattlyAUR a 3.0.0: 🟨
+* Intentar dejar el código del Launcher original (Sin modificar): ❓
 
 
 ## ACLARACIONES:
 * BattlyAUR NO crackea el Launcher
 * BattlyAUR NUNCA modificara el comportamiento del Launcher
-* BattlyAUR SE CANCELA a petición de TecnoBros
+* BattlyAUR SE CANCELA a petición de 1ly4s0 (El creador original de Battly Launcher)
